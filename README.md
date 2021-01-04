@@ -1,4 +1,6 @@
-### Hi there, My name is Dimitris Dafnis 👋(<-- two spaces)
+### Hi there, My name is Dimitris Dafnis 👋
+
+<br/>
 
 ## I'm a Software Developer with experience in building web & mobile applications!!
 
