@@ -9,8 +9,6 @@
 
 ### Connect with me:
 
-[<img align="left" alt="jim-daf | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="jim-daf | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="jim-daf | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="jim-daf | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
@@ -40,8 +38,7 @@
 
 
 
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
+
 [instagram]: https://www.instagram.com/_dimitris_dafnis/
 [linkedin]: https://www.linkedin.com/in/dimitris-dafnis-972116203/
 
