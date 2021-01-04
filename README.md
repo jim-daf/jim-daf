@@ -1,5 +1,5 @@
 ### Hi there, My name is Dimitris Dafnis 👋
-One  \nTwo  \nThree  \nFour
+[<p>Solid</p> <hr class="solid" style="border-top: 3px solid #bbb;">]
 ## I'm a Software Developer with experience in building web & mobile applications!!
 
 - 🌱 I’m currently developing a web application about environment
