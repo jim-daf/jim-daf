@@ -2,7 +2,6 @@
 
 ## I'm a Software Developer with experience in building web & mobile applications!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently implementing a web application about environment
 - 👯 I’m looking to collaborate with other Software Developers 
 - 🥅 2021 Goals: Contribute more to Open Source projects
