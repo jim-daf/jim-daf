@@ -1,5 +1,6 @@
 ### Hi there, My name is Dimitris Dafnis 👋
-<hr class="solid" style="border-top: 1px solid #bbb;">
+<hr class="solid" style="border-top: 0.5px solid #bbb;">
+
 ## I'm a Software Developer with experience in building web & mobile applications!!
 
 - 🌱 I’m currently developing a web application about environment
