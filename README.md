@@ -1,5 +1,5 @@
-### Hi there, My name is Dimitris Dafnis 👋
-(<-- two spaces)
+### Hi there, My name is Dimitris Dafnis 👋(<-- two spaces)
+
 ## I'm a Software Developer with experience in building web & mobile applications!!
 
 - 🌱 I’m currently developing a web application about environment
