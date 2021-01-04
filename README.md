@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently developing a web application about environment
 - 👯 I’m looking to collaborate with other Software Developers 
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Implement more projects & learn new things
 - ⚡ Fun fact: I love playing chess and reading
 
 ### Connect with me:
