@@ -1,8 +1,8 @@
-### Hi there, My name is Jim 👋
+### Hi there, My name is Dimitris Dafnis 👋
 
 ## I'm a Software Developer with experience in building web & mobile applications!!
 
-- 🌱 I’m currently implementing a web application about environment
+- 🌱 I’m currently developing a web application about environment
 - 👯 I’m looking to collaborate with other Software Developers 
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love playing chess and reading
