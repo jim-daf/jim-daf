@@ -3,8 +3,8 @@
 
 ## I'm a Software Developer with experience in building web & mobile applications!!
 
-- 🌱 I’m currently developing a web application about environment
-- 👯 I’m looking to collaborate with other Software Developers 
+- 🌱 Currently developing a web application about environment
+- 👯 Looking to collaborate with other Software Developers 
 - 🥅 2021 Goals: Implement more projects & learn new things
 - ⚡ Fun fact: I love playing chess and reading
 
