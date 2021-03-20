@@ -1,11 +1,11 @@
 ## Hi there, My name is Dimitris Dafnis 👋
 
 
-## I'm a Software Developer with experience in building web & mobile applications!!
+## I'm a Software Developer with experience in building web applications!
 
 - 🌱 Currently developing a web application about environment
-- 👯 Looking to collaborate with other Software Developers 
-- 🥅 2021 Goals: Implement more projects & learn new things
+- 👯 Looking to collaborate with other Software Developers in team projects
+- 🥅 2021 Goals: Implement more open source projects & learn new things
 - ⚡ Fun fact: I love playing chess and reading
 
 ### Connect with me:
@@ -30,7 +30,7 @@
 <img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Swift" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" />
-<img align="left" alt="Kotlin" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />
+<img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 <br />
 <br />
 
