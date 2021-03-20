@@ -1,7 +1,7 @@
 ## Hi there, My name is Dimitris Dafnis 👋
 
 
-## I'm a Software Developer with experience in building web applications!
+## I'm a Software Developer with experience in building web applications
 
 - 🌱 Currently developing a web application about environment
 - 👯 Looking to collaborate with other Software Developers in team projects
