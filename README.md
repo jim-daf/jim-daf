@@ -10,8 +10,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="jim-daf | LinkedIn" width="50px" src="https://img.flaticon.com/icons/png/512/174/174857.png?size=1200x630f&pad=10,10,10,10&ext=png&bg=FFFFFFFF" />][linkedin]
-[<img align="left" alt="jim-daf | Instagram" width="50px" src="https://cdn57.androidauthority.net/wp-content/uploads/2016/05/Instagram-new-icon-900x470.png" />][instagram]
+[<img align="left" alt="jim-daf | LinkedIn" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/1024px-Linkedin_icon.svg.png" />][linkedin]
+[<img align="left" alt="jim-daf | Instagram" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/1200px-Instagram-Icon.png" />][instagram]
 
 <br />
 
