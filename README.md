@@ -1,5 +1,5 @@
-## Hi there, My name is Dimitris Dafnis 👋
-
+## Hi there👋 
+## My name is Dimitris Dafnis 
 
 ## I'm a Software Developer with experience in building web applications
 
