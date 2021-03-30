@@ -22,7 +22,7 @@
 <img align="left" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 
-<img align="left" alt="MongoDB" width="40px" src="https://www.google.gr/url?sa=i&url=https%3A%2F%2Fromaan.com.au%2Fmongo-db&psig=AOvVaw373WHSKD-nniST-kuOWHES&ust=1617175347593000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCICzwOK91-8CFQAAAAAdAAAAABAa" />
+<img align="left" alt="MongoDB" width="40px" src="https://diginomica.com/sites/default/files/styles/article_images_desktop/public/images/2017-06/mongodb.png?itok=a1hPvsob" />
 <img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
