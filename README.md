@@ -4,7 +4,9 @@
 ## I'm a Software Developer with experience in building web and desktop applications
 
 - 🌱 Currently building a web application about environment
-- ⚡ Fun fact: I love playing chess and reading
+- 👯 Looking to collaborate with other Software Developers in team projects
+- 🥅 2021 Goals: Implement more open source projects
+- ⚡ Fun fact: I love playing chess and piano
 
 ### Connect with me:
 
