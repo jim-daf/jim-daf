@@ -1,11 +1,8 @@
 ## Hi there👋 My name is Jim
 
-
-## I'm a Software Developer with experience in building web and desktop applications
-
 - 🌱 Currently building a web application about environment
 - 👯 Looking to collaborate with other Software Developers in team projects
-- 🥅 2021 Goals: Implement more open source projects
+- 🥅 2022 Goals: Implement more open source projects
 
 ### Connect with me:
 
