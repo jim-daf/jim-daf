@@ -6,7 +6,6 @@
 - 🌱 Currently building a web application about environment
 - 👯 Looking to collaborate with other Software Developers in team projects
 - 🥅 2021 Goals: Implement more open source projects
-- ⚡ Fun fact: I love playing chess and piano
 
 ### Connect with me:
 
