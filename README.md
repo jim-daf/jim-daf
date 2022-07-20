@@ -1,6 +1,5 @@
 ## Hi there👋 My name is Jim
 
-- 🌱 Currently building a web application about environment
 - 👯 Looking to collaborate with other Software Developers in team projects
 - 🥅 2022 Goals: Implement more open source projects
 
