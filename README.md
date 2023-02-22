@@ -1,7 +1,7 @@
 ## Hi there👋 My name is Jim
 
 - 👯 Looking to collaborate with other Software Developers in team projects
-- 🥅 2022 Goals: Implement more open source projects
+- 🥅 2023 Goals: Implement more open source projects
 
 ### Connect with me:
 
