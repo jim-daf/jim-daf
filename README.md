@@ -6,7 +6,6 @@
 ### Connect with me:
 
 [<img align="left" alt="jim-daf | LinkedIn" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/1024px-Linkedin_icon.svg.png" />][linkedin]
-[<img align="left" alt="jim-daf | Instagram" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/1200px-Instagram-Icon.png" />][instagram]
 
 <br />
 
